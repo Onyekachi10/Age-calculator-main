@@ -139,7 +139,7 @@ span.age {
  @media screen and (max-width:499px) and (min-width:280px) {
     div.container {
         left: 50%;
-        top: 70%;
+        top: 50%;
         width: fit-content;
     }
 
